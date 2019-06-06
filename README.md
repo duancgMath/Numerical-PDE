@@ -21,3 +21,19 @@ Numerical methods for PDEs
 
 
 ## Ellipse equatoins
+
+
+## Numerical Methods
+
+### Finite Difference Methods
+
+### Finite Volume Methods
+
+### Finite Element Methods
+
+### Spectral Methods
+
+### Discontious Galerkin Methods
+
+
+
