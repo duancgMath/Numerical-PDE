@@ -25,15 +25,15 @@ Numerical methods for PDEs
 
 ## Numerical Methods
 
-. Finite Difference Methods
+* Finite Difference Methods
 
-. Finite Volume Methods
+* Finite Volume Methods
 
-. Finite Element Methods
+* Finite Element Methods
 
-. Spectral Methods
+* Spectral Methods
 
-. Discontious Galerkin Methods
+* Discontious Galerkin Methods
 
 
 
