@@ -19,6 +19,10 @@ Numerical methods for PDEs
 
 ## Parabolic equations
 
+### 1D equations
+
+* Heat conduction equations
+
 
 ## Ellipse equatoins
 
