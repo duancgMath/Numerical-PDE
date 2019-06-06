@@ -5,12 +5,12 @@ classdef linear_wave_problem
         xl = -1.0;
         xr = 1.0;
         t_total = 0.5;
+        u_bcl = @(t)0.0;
+        u_bcr = @(t)0.0;
     end
     properties 
         u_init
         n_grid
-        u_bcl = @(t)0.0;
-        u_bcr = @(t)0.0;
     end % properties
 
     methods
