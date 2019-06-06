@@ -3,11 +3,11 @@ Numerical methods for PDEs
 
 ## Hyperbolic equations
 
-### 1D equations
+* 1D equations
 
-#### linear wave equations
+* linear wave equations
 
-#### Burgers equations
+* Burgers equations
 
 #### Maxwell equations
 
