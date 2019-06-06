@@ -6,7 +6,7 @@
 
 #### Initial conditions
 
-`init_cond.m` initial conditions from book <<Numerical methods for conservation law>>
+`init_cond.m` initial conditions from book << Numerical methods for conservation law >>
 
 `init_cond_riemann.m` initial conditions for Riemann problem
 
