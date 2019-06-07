@@ -1,4 +1,4 @@
-function result = solver(model)
+function result = solver(model,scheme_kind)
 % SOLVER
 
 % check r
@@ -13,8 +13,8 @@ end
 t = 0.0;
 u = model.u_init;
 while (t < model.t_total)
-    u = update_solution(u,model,t,1);
     t = t+model.dt;
+    u = update_solution(u,model,t,scheme_kind);
 end
 result = u;
 
