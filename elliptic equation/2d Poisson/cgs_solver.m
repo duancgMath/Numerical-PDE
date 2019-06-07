@@ -1,5 +1,5 @@
 function result = cgs_solver(A,b)
-% CGS_SOLVER Jacobi Relaxation Scheme
+% CGS_SOLVER Conjugate gradients squared method
 
 fprintf('-----------------------------------\n')
 fprintf('Solver == Conjugate gradients squared method. \n');
