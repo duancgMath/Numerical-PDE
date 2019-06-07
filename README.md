@@ -26,6 +26,8 @@ Numerical methods for PDEs
 
 ## Ellipse equatoins
 
+* 2D Poisson equations
+
 
 ## Numerical Methods
 
