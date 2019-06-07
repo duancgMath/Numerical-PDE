@@ -59,6 +59,7 @@ classdef poisson_2d
         end
         
         function result = A(obj)
+        
             B = sparse(1:obj.nx-1,1:obj.nx-1,2.0*(1.0/dx^2+1.0/dy^2)*ones(obj.nx-1,1),obj.nx-1,obj.nx-1)+ ...
                 sparse(2:obj.nx-1,1:obj.nx-2,-1.0/dx^2*ones(obj.nx-2,1),obj.nx-1,obj.nx-1)+...
                 sparse(1:obj.nx-2,2:obj.nx-1,-1.0/dx^2*ones(obj.nx-2,1),obj.nx-1,obj.nx-1);
