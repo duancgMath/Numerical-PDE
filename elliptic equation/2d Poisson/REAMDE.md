@@ -1,6 +1,6 @@
 # 2D Poisson Equations
 
-## 
+## Main program
 
 `main.m` main program
 
